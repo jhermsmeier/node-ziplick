@@ -1,0 +1,30 @@
+{
+  "name": "slipstream",
+  "version": "0.0.0",
+  "description": "Streaming Zip (de)compressor",
+  "license": "MIT",
+  "keywords": [
+    "zip",
+    "compress",
+    "decompress",
+    "stream",
+    "unzip"
+  ],
+  "main": "lib/zip",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {
+    "bloodline": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-slipstream",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-slipstream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-slipstream/issues"
+  }
+}
