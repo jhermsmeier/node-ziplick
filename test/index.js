@@ -1,3 +1,5 @@
+var Zip = require( '..' )
+
 describe( 'Zip', function() {
   
   it( 'errors on empty zip file', function() {
