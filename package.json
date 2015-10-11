@@ -15,7 +15,9 @@
   "dependencies": {
     "bloodline": "~1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "~2.3.3"
+  },
   "scripts": {
     "test": "mocha"
   },
