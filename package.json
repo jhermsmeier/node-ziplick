@@ -1,5 +1,5 @@
 {
-  "name": "slipstream",
+  "name": "ziplick",
   "version": "0.0.0",
   "description": "Streaming Zip (de)compressor",
   "license": "MIT",
@@ -21,12 +21,12 @@
   "scripts": {
     "test": "mocha"
   },
-  "homepage": "https://github.com/jhermsmeier/node-slipstream",
+  "homepage": "https://github.com/jhermsmeier/node-ziplick",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhermsmeier/node-slipstream.git"
+    "url": "git+https://github.com/jhermsmeier/node-ziplick.git"
   },
   "bugs": {
-    "url": "https://github.com/jhermsmeier/node-slipstream/issues"
+    "url": "https://github.com/jhermsmeier/node-ziplick/issues"
   }
 }
